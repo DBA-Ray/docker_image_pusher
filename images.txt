@@ -1,2 +1,3 @@
 pawsql/pawsql-ce:latest
 percona/pmm-server:3
+percona/watchtower
