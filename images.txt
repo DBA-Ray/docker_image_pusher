@@ -1,1 +1,1 @@
-pawsql-ce:latest
+pawsql/pawsql-ce:latest
