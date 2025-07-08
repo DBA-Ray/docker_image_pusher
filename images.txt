@@ -1,1 +1,2 @@
 pawsql/pawsql-ce:latest
+percona/pmm-server:3
